@@ -31,7 +31,7 @@ THAT IS REQURIED TO USE SEPARATED WALLET, and put only monster and some BNB for 
 ## config
 ![main](/image/config_1.png)
 
-1. Ddd your monsterId and how many battle you want it to fight in every round
+1. Add your monsterId and how many battle you want it to fight in every round
        - Example that monter r6 can have 3 fight in one round
        - You can also modify your monter by using this menus
    
