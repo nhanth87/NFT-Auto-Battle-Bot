@@ -1,7 +1,7 @@
 # NFT-Auto-Battle-Bot
 
 ## beta version
-    - [Linux] <https://github.com/nhanth87/NFT-Auto-Battle-Bot/releases/tag/0.1>
+   - Linux <https://github.com/nhanth87/NFT-Auto-Battle-Bot/releases/tag/0.1>
 
 
 First support is polkamonster, next is zoon, axie, skill..etc in the `same` model!
