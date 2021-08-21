@@ -1,6 +1,7 @@
 # NFT-Auto-Battle-Bot
 
-## beta version
+### Download:
+
    - Linux <https://github.com/nhanth87/NFT-Auto-Battle-Bot/releases/tag/0.1>
 
 
@@ -11,7 +12,7 @@ The bot interact directly with smart contract of NFT game, it's web3 application
 THAT IS REQURIED TO USE SEPARATED WALLET, and put only monster and some BNB for gas fee
 
 
-## [free version]
+## free version
 
    - Auto battle easy zombie
    - PvE
@@ -19,7 +20,7 @@ THAT IS REQURIED TO USE SEPARATED WALLET, and put only monster and some BNB for 
    - config max round that every monster should do
 
 
-## [paid version]
+## paid version
 
    - intelligent battle monster based on elementary
    - auto claim, buy and lay egg
@@ -28,7 +29,7 @@ THAT IS REQURIED TO USE SEPARATED WALLET, and put only monster and some BNB for 
    - PvP
    - you need to buy and store ABT token in your wallet
 
-## [config]
+## config
 ![main](/image/config_1.png)
 
 1. Ddd your monsterId and how many battle you want it to fight in every round
