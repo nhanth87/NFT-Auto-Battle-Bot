@@ -1,5 +1,9 @@
 # NFT-Auto-Battle-Bot
 
+## beta version
+    - [Linux] https://github.com/nhanth87/NFT-Auto-Battle-Bot/releases/tag/0.1
+
+
 First support is polkamonster, next is zoon, axie, skill..etc in the `same` model!
 
 The bot interact directly with smart contract of NFT game, it's web3 application so you need to add acc/private key. 
