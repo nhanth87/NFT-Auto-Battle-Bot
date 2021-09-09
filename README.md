@@ -2,7 +2,7 @@
 
 ### Download:
 
-   - <https://github.com/nhanth87/NFT-Auto-Battle-Bot/releases/tag/0.1>
+   - <https://github.com/nhanth87/NFT-Auto-Battle-Bot/releases>
 
 
 First support is polkamonster, cryptohounds, zoon, axie, skill..etc in the `same` model!
