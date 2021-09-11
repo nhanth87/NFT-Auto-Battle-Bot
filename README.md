@@ -1,6 +1,14 @@
 # NFT-Auto-Battle-Bot
 
 First support is polkamonster, next is zoon, axie, skill..etc in the `same` model!
+=======
+### Download:
+
+   - <https://github.com/nhanth87/NFT-Auto-Battle-Bot/releases>
+
+
+First support is polkamonster, cryptohounds, zoon, axie, skill..etc in the `same` model!
+
 The bot interact directly with smart contract of NFT game, it's web3 application so you need to add acc/private key. 
 THAT IS REQURIED TO USE SEPARATED WALLET, and put only monster and some BNB for gas fee
 
@@ -10,7 +18,7 @@ THAT IS REQURIED TO USE SEPARATED WALLET, and put only monster and some BNB for 
     - pip3 install web3 pyqt5 pysqlite auto_py_to_exe
     - python `qtBot.py`
 
-## [free version]
+## free version
 
    - Auto battle easy zombie
    - PvE
@@ -23,10 +31,10 @@ THAT IS REQURIED TO USE SEPARATED WALLET, and put only monster and some BNB for 
    - PvP
    - you need to buy and store ABT token in your wallet
 
-## [config]
+## config
 ![main](/image/config_1.png)
 
-1. Ddd your monsterId and how many battle you want it to fight in every round
+1. Add your monsterId and how many battle you want it to fight in every round
        - Example that monter r6 can have 3 fight in one round
        - You can also modify your monter by using this menus
    
@@ -53,3 +61,4 @@ Please use this github to report your issue, it should contain explaination and 
 
 ## ATB address
  comming soon
+
