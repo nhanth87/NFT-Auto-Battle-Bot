@@ -1,6 +1,5 @@
 # NFT-Auto-Battle-Bot
 
-<<<<<<< HEAD
 First support is polkamonster, next is zoon, axie, skill..etc in the `same` model!
 =======
 ### Download:
@@ -10,7 +9,6 @@ First support is polkamonster, next is zoon, axie, skill..etc in the `same` mode
 
 First support is polkamonster, cryptohounds, zoon, axie, skill..etc in the `same` model!
 
->>>>>>> c3b20ef66eec8496ee3895eb6ab4cd2bd6eec566
 The bot interact directly with smart contract of NFT game, it's web3 application so you need to add acc/private key. 
 THAT IS REQURIED TO USE SEPARATED WALLET, and put only monster and some BNB for gas fee
 
